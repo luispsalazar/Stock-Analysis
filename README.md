@@ -1,3 +1,3 @@
 # Stock-Analysis
 
-Module 2 exercises
+Module 2, class exercises
